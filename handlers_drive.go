@@ -16,8 +16,8 @@ import (
 	"github.com/ZyCromerZ/gdrive/drive"
 )
 
-const ClientId = "593992814236-f973l6mk5t37std0140mcldpaduq9pl7.apps.googleusercontent.com"
-const ClientSecret = "IjHfcH6MTKy1Zu7CFjz9jhQe"
+const ClientId = "202264815644.apps.googleusercontent.com"
+const ClientSecret = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
 const TokenFilename = "token_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
